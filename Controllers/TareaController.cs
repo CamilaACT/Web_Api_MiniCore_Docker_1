@@ -12,6 +12,7 @@ namespace WebApplication1.Controllers
         [HttpPost]
 
         [Route("tareasFecha")]
+        //controlador listo
         public Respuesta tareasPorFecha([FromBody] Tarea_fechas fechas)
         {
             Respuesta res = model.proc.p_Tarea.listaMenu(fechas);
