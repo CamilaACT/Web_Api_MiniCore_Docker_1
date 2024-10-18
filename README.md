@@ -42,7 +42,7 @@ El proyecto está dividido en varias capas lógicas:
 ## Deploy
 
 El proyecto se encuentra deployado en:
-https://web-api-minicore-docker-1-hav5.onrender.com
+https://github.com/CamilaACT/Web_Api_MiniCore_Docker_1
 
 ## Instalación
 
